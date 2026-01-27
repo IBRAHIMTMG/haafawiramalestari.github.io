@@ -1,0 +1,12 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/p/:path*", "destination": "/p/:path*.html" }
+  ],
+  "redirects": [
+    { "source": "/catalogue", "destination": "/p/catalogue-product-pt-haafa-wirama.html" },
+    { "source": "/profile", "destination": "/p/company-profile-pt-haafa-wirama-lestari.html" },
+    { "source": "/documents", "destination": "/p/doc-export-pt-haafa-wirama-lestari.html" }
+  ]
+}
