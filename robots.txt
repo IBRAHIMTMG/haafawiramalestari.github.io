@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /search/
+Disallow: /*?m=1
+Disallow: /*&m=1
+Allow: /search/label/
+
+Sitemap: https://www.haafawiramalestari.or.id/sitemap.xml
+Sitemap: https://www.haafawiramalestari.or.id/sitemap-pages.xml
